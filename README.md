@@ -22,4 +22,4 @@ func searchBar(searchBar: UISearchBar,shouldChangeTextInRange range: NSRange, re
 
 For more information on this method, check out the official documentation:
 
-[](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UISearchBarDelegate_Protocol/index.html#//apple_ref/occ/intfm/UISearchBarDelegate/searchBar:shouldChangeTextInRange:replacementText: "searchBar:shouldChangeTextInRange")
+[searchBar:shouldChangeTextInRange](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UISearchBarDelegate_Protocol/index.html#//apple_ref/occ/intfm/UISearchBarDelegate/searchBar:shouldChangeTextInRange:replacementText:)
